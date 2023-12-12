@@ -2,7 +2,7 @@
 module.exports = {
   content: [
     './src/pages/**/*.{js,ts,jsx,tsx,mdx}',
-    './src/components/**/*.{js,ts,jsx,tsx,mdx}',
+    './src/component/**/*.{js,ts,jsx,tsx,mdx}',
     './src/app/**/*.{js,ts,jsx,tsx,mdx}',
   ],
   theme: {
@@ -15,7 +15,8 @@ module.exports = {
       colors: {
         "purple": '#5D50C6',
         "pink": '#F85E9F',
-        "orange": '#FF5722'
+        "orange": '#FF5722',
+        "grey": '#222831'
       } 
     },
   },
