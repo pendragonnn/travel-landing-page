@@ -45,7 +45,7 @@ export default function Navbar() {
         </div>
       </div>
       {isNavActive && (
-        <div className='fixed bottom-0 left-0 bg-white right-0 p-4 border lg:hidden'>
+        <div className='z-50 fixed bottom-0 left-0 bg-white right-0 p-4 border lg:hidden'>
           <ul className='flex justify-between'>
             <li>
               <button className='flex justify-center flex-col items-center gap-1 text-purple'>

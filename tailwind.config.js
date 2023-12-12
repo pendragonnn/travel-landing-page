@@ -17,7 +17,7 @@ module.exports = {
         "pink": '#F85E9F',
         "orange": '#FF5722',
         "grey": '#222831'
-      } 
+      }
     },
   },
   plugins: [],
