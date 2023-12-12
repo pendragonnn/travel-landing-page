@@ -33,6 +33,25 @@ export default function Hero() {
               <img src={'asset/hero.png'} className="w-full" alt="" />
             </div>
           </div>
+          <div className="col-span-12 order-3 py-8">
+            <div className='flex justify-center gap-6 sm:gap-7 flex-wrap lg:justify-between'>
+              <div>
+                <img src={'asset/logo/tripadvisor-logo.svg'} className="h-5 sm:h-8" alt="" />
+              </div>
+              <div>
+                <img src={'asset/logo/expedia-logo.svg'} className="h-5 sm:h-8" alt="" />
+              </div>
+              <div>
+                <img src={'asset/logo/booking-logo.svg'} className="h-5 sm:h-8" alt="" />
+              </div>
+              <div>
+                <img src={'asset/logo/airbnb-logo.svg'} className="h-5 sm:h-8" alt="" />
+              </div>
+              <div>
+                <img src={'asset/logo/orbit-logo.svg'} className="h-5 sm:h-8" alt="" />
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </section>
