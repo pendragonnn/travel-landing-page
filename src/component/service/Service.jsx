@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function Service() {
   return (
-    <section className='py-16 overflow-x-hidden'>
+    <section className='py-16 lg:px-5 overflow-x-hidden'>
       <div className="container mx-auto px-3">
         <div className="grid grid-cols-12 items-center">
           <div className="lg:col-span-4 col-span-12 flex flex-col gap-4">
